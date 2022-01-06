@@ -1,0 +1,46 @@
+* {
+  background-color: grey;
+}
+
+.WelcomePage-section {
+  padding: 1rem;
+  padding-bottom: 0.2rem;
+  text-align: center;
+  margin-left: 10%;
+  margin-top: 5%;
+  border: solid 3px rgba(43, 35, 35, 0.603);
+  border-radius: 2rem;
+  width: 80%;
+  height: fit-content;
+  background-color: goldenrod;
+  color: white;
+  font-variant: small-caps;
+}
+.WelcomePage--message,
+.WelcomePage--guide,
+.WelcomePage--aurthor,
+.WelcomePage--aurthorName,
+.WelcomePage--slogan {
+  background-color: rgba(43, 35, 35, 0.603);
+  border-radius: 2rem;
+  word-spacing: 5px;
+  letter-spacing: 3px;
+}
+.WelcomePage--message,
+.WelcomePage--aurthor {
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.WelcomePage--guide,
+.WelcomePage--aurthorName,
+.WelcomePage--slogan {
+  font-size: x-large;
+  font-family: monospace;
+}
+.WelcomePage--aurthor {
+  font-size: x-large;
+}
+.WelcomePage--aurthorName {
+  font-size: large;
+  font-style: italic;
+}

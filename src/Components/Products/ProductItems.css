@@ -1,0 +1,4 @@
+.ProductItems {
+  display: flex;
+  flex-wrap: wrap;
+}

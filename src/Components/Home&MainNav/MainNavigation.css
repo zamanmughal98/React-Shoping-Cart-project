@@ -1,0 +1,16 @@
+.MainNavigation {
+  text-align: center;
+  margin-top: 1%;
+}
+.MainNavigation-li {
+  display: inline;
+  list-style: none;
+  margin-left: 2%;
+  font-weight: bolder;
+}
+.navlink {
+  color: white;
+  text-decoration: none;
+  font-size: x-large;
+  font-weight: bolder;
+}
